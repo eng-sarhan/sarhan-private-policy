@@ -1,4 +1,5 @@
-
+                                                        							      Privacy Policy
+                    
 We take your privacy seriously. To better protect your privacy. We provide this privacy policy notice explaining the way your personal information is collected and used.
 
 Collection of Routine Information:- This app(matressfullgraphapi) track basic information about their visitors or users. This information includes, but is not limited to IP addresses, app(matressfullgraphapi) details, timestamps and referring pages. None of this information can personally identify specific visitor or user to this app(matressfullgraphapi). The information is tracked for routine administration and maintenance purposes.
